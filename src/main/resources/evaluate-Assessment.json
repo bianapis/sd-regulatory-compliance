@@ -1,0 +1,11 @@
+{
+  "productServiceReference" : "PSRE4577",
+  "regulatoryAssessmentReference" : "RAR1234",
+  "customerReference" : "CSRE3456",
+  "regulatoryAuthorityReference" : "RARE5435",
+  "regulationReference" : "RGRF4537",
+  "documentReference" : "DCRE8470",
+  "regulatoryAssessmentTaskRecord" : {},
+  "businessUnitReference" : "BURE4534",
+  "regulatoryAssessmentResult" : "Success"
+}

@@ -1,0 +1,11 @@
+{
+  "productServiceReference" : "PSR2209",
+  "regulatoryAdvisoryTaskRecord" : {},
+  "regulatoryAssessmentReference" : "RAR1234",
+  "customerReference" : "CR732463",
+  "businessUnitEmployeeReference" : "BUER2920",
+  "regulatoryAuthorityReference" : "RAR723642",
+  "documentReference" : "DR1501",
+  "regulatoryGuidelineRegulationReference" : "RGGR7880",
+  "regulatoryAdvisoryTaskReference" : "RURF0398"
+}

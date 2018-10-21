@@ -1,0 +1,42 @@
+{
+  "productServiceReference" : "PSRE4577",
+  "tests" : {
+    "regulatoryAuthorityJurisdiction" : "NewYork United States",
+    "regulationAccountability" : "Responsibility",
+    "regulationDefinition" : "Goals",
+    "regulatoryAssessmentReference" : "RAR1234",
+    "regulatoryTestReference" : "RTR959",
+    "regulatoryAuthorityReference" : "RARE5435",
+    "regulationReference" : "RGRF4537",
+    "regulationComplianceReportingRequirements" : "Weekly",
+    "regulationPenalties" : "NonCompliance"
+  },
+  "regulatoryAssessmentReference" : "RAR1234",
+  "customerReference" : "CSRE3456",
+  "guidelines" : {
+    "regulatoryAuthorityJurisdiction" : "NewYork United States",
+    "regulatoryGuidelineType" : "Penalties",
+    "regulatoryGuidelineRecord" : {},
+    "regulatoryAssessmentReference" : "RAR1234",
+    "regulatoryTestReference" : "RTR959",
+    "regulatoryAuthorityReference" : "RARE5435",
+    "regulatoryGuidelineReference" : "RDRE6288"
+  },
+  "regulatoryAuthorityReference" : "RARE5435",
+  "regulationReference" : "RGRF4537",
+  "documentReference" : "DCRE8470",
+  "advices" : {
+    "productServiceReference" : "PSR2209",
+    "regulatoryAdvisoryTaskRecord" : {},
+    "regulatoryAssessmentReference" : "RAR1234",
+    "customerReference" : "CR732463",
+    "businessUnitEmployeeReference" : "BUER2920",
+    "regulatoryAuthorityReference" : "RAR723642",
+    "documentReference" : "DR1501",
+    "regulatoryGuidelineRegulationReference" : "RGGR7880",
+    "regulatoryAdvisoryTaskReference" : "RURF0398"
+  },
+  "regulatoryAssessmentTaskRecord" : {},
+  "businessUnitReference" : "BURE4534",
+  "regulatoryAssessmentResult" : "Success"
+}
